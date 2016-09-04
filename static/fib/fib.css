@@ -1,0 +1,99 @@
+body {
+    
+    background-color: black;
+}
+body {
+    color: white;
+    height: 100%;
+     width: 100%;
+    background-image: url('http://www.zoracreative.com/file/2014/01/fibonacci.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+.content {
+    
+    padding-top: 50px;
+    display: block;
+    
+}
+
+
+#title {
+    margin: 0 200px 0 200px;
+    background-color: rgba(0,0,0,0.5);
+    text-align: center;
+    text-transform: uppercase;
+    font-family: georgia, Times, serif;  
+    
+}
+#title  em {
+    font-size: 20px;
+}
+
+#tittle {
+    margin: 0 200px 0 200px;
+    background-color: rgba(0,0,0,0.5);
+    text-align: center; 
+    text-transform: uppercase;
+    font-family: georgia, Times, serif;
+    font-size: 30px;
+}
+
+#tittle em {
+    font-size: 20px;
+}
+
+
+#fin {
+    font-size: 30px;
+    position: relative;
+    display: block;
+    margin : 0 auto;    
+    text-align: center;
+    height: 50px;
+    width: 60%;
+    border-radius: 15px;
+    font-family: georgia, Times, serif; 
+    box-shadow: 0 23px 39px -20px rgb(0, 0, 0);
+    color:black;
+}
+
+#b {
+    color: black;
+    margin: 20px 0 0 0;
+    position: relative;
+    display: block;
+    margin : 0 auto; 
+    height: 50px;
+    width: 20%;
+    text-transform: uppercase;
+    font-family: georgia, Times, serif;  
+}
+
+#result p {
+    background-color: rgba(0,0,0,0.5);
+    text-align: center;
+    font-size: 30px;
+    text-transform: capitalize;
+    font-family: georgia, Times, serif;
+    
+    
+}
+
+#time p {
+    background-color: rgba(0,0,0,0.5);
+    text-align: center;
+    font-size: 30px;
+    text-transform: capitalize;
+    font-family: georgia, Times, serif; 
+    
+    
+    
+}
+
+#output {
+    margin: 0 200px 0 200px;
+}
